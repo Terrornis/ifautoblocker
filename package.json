@@ -1,0 +1,14 @@
+{
+  "name": "ifautoblocker",
+  "version": "0.5.0",
+  "description": "A CLI iFunny user blocking tool",
+  "bin": "ifautoblocker.js",
+  "author": "Nepafenac",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0"
+  }
+}
